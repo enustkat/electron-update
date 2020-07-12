@@ -1,0 +1,40 @@
+{
+  "name": "evolvia",
+  "productName": "evolvia",
+  "version": "1.0.2",
+  "description": "evolvia",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Electron Webview\" && node ./build.js",
+    "package-linux": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=assets/icons/png/1024x1024.png --prune=true --out=release-builds",
+    "create-installer-mac": "electron-installer-dmg ./release-builds/Electron\\ webview-darwin-x64/Electron\\ webview.app electron-webview --out=release-builds --overwrite --icon=assets/icons/mac/icon.icns",
+    "build": "electron-builder build --mac --win --publish never",
+    "deploy": "electron-builder build --mac --win --publish always"
+  },
+  "repository": {
+    "type": "git",
+    "url": "  https://github.com/enustkat/electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "webview"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.4.0",
+    "electron-builder": "^22.7.0",
+    "electron-installer-dmg": "^3.0.0",
+    "electron-packager": "^14.2.1",
+    "electron-winstaller": "^4.0.1"
+  
+  },
+  "dependencies": {
+    "electron-log": "^4.2.2",
+    "electron-updater": "^4.3.1",
+    "node-sessionstorage": "^1.0.0",
+    "update-electron-app": "^1.5.0"
+  }
+}

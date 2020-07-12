@@ -1,0 +1,208 @@
+<svg id="boy_persentil" data-name="boy persentil" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="691" height="499" viewBox="0 0 691 499">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d7d6e8;
+      }
+
+      .cls-1, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.1;
+      }
+
+      .cls-3, .cls-4, .cls-8 {
+        font-size: 18.911px;
+        font-family: "Baloo Chettan 2";
+        font-weight: 500;
+      }
+
+      .cls-3, .cls-4 {
+        opacity: 0.8;
+        fill: #60779a;
+      }
+
+      .cls-4 {
+        text-anchor: end;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: #2270e3;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 8 6;
+      }
+
+      .cls-6 {
+        stroke: #61c8d7;
+        stroke-width: 1.5px;
+        stroke-dasharray: 6 4.5;
+      }
+
+      .cls-8 {
+        fill: #61c8d7;
+      }
+    </style>
+    <image id="image" width="52" height="53" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA1CAYAAAAOJMhOAAAAoklEQVRoge3asQnDMBgF4RcvYoFXcOXKZcbyCBkmRcpUrjxUUB9VQnCY+0DtD9e9Qo9lLt8k9fXYkpyAG3uWuRydR+qNF+TGMfUeoTGIziA6g+huF1SXwjvJ1XnnmeQDuLG6FOgMojOIziA6g+icPv84fQYyiM4gOoPoXAoNLoVBN1wKeAbRGURnEJ3Tp8HpM+iG0wfPIDqD6Ayiu9ef02T/ATi5Kz+/AcPCAAAAAElFTkSuQmCC"/>
+  </defs>
+  <path id="sol" class="cls-1" d="M100.217,1231.69h0.571V1699.6h-0.571V1231.69Z" transform="translate(-53 -1219)"/>
+  <path id="alt" class="cls-1" d="M100.217,1699.6v-0.57H726.729v0.57H100.217Z" transform="translate(-53 -1219)"/>
+  <g id="mal" class="cls-2">
+    <use id="Vector_Smart_Object" data-name="Vector Smart Object" x="47" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_3" data-name="Vector Smart Object copy 3" x="98" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_4" data-name="Vector Smart Object copy 4" x="149" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_4-2" data-name="Vector Smart Object copy 4" x="200" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_5" data-name="Vector Smart Object copy 5" x="251" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_5-2" data-name="Vector Smart Object copy 5" x="302" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_7" data-name="Vector Smart Object copy 7" x="353" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_7-2" data-name="Vector Smart Object copy 7" x="404" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_8" data-name="Vector Smart Object copy 8" x="455" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_8-2" data-name="Vector Smart Object copy 8" x="506" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_9" data-name="Vector Smart Object copy 9" x="557" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_9-2" data-name="Vector Smart Object copy 9" x="608" y="428" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13" data-name="Vector Smart Object copy 13" x="47" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-2" data-name="Vector Smart Object copy 13" x="98" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-3" data-name="Vector Smart Object copy 13" x="149" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-4" data-name="Vector Smart Object copy 13" x="200" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-5" data-name="Vector Smart Object copy 13" x="251" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-6" data-name="Vector Smart Object copy 13" x="302" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-7" data-name="Vector Smart Object copy 13" x="353" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-8" data-name="Vector Smart Object copy 13" x="404" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-9" data-name="Vector Smart Object copy 13" x="455" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-10" data-name="Vector Smart Object copy 13" x="506" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-11" data-name="Vector Smart Object copy 13" x="557" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_13-12" data-name="Vector Smart Object copy 13" x="608" y="376" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14" data-name="Vector Smart Object copy 14" x="47" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-2" data-name="Vector Smart Object copy 14" x="98" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-3" data-name="Vector Smart Object copy 14" x="149" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-4" data-name="Vector Smart Object copy 14" x="200" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-5" data-name="Vector Smart Object copy 14" x="251" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-6" data-name="Vector Smart Object copy 14" x="302" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-7" data-name="Vector Smart Object copy 14" x="353" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-8" data-name="Vector Smart Object copy 14" x="404" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-9" data-name="Vector Smart Object copy 14" x="455" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-10" data-name="Vector Smart Object copy 14" x="506" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-11" data-name="Vector Smart Object copy 14" x="557" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_14-12" data-name="Vector Smart Object copy 14" x="608" y="324" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15" data-name="Vector Smart Object copy 15" x="47" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-2" data-name="Vector Smart Object copy 15" x="98" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-3" data-name="Vector Smart Object copy 15" x="149" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-4" data-name="Vector Smart Object copy 15" x="200" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-5" data-name="Vector Smart Object copy 15" x="251" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-6" data-name="Vector Smart Object copy 15" x="302" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-7" data-name="Vector Smart Object copy 15" x="353" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-8" data-name="Vector Smart Object copy 15" x="404" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-9" data-name="Vector Smart Object copy 15" x="455" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-10" data-name="Vector Smart Object copy 15" x="506" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-11" data-name="Vector Smart Object copy 15" x="557" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_15-12" data-name="Vector Smart Object copy 15" x="608" y="272" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16" data-name="Vector Smart Object copy 16" x="47" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-2" data-name="Vector Smart Object copy 16" x="98" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-3" data-name="Vector Smart Object copy 16" x="149" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-4" data-name="Vector Smart Object copy 16" x="200" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-5" data-name="Vector Smart Object copy 16" x="251" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-6" data-name="Vector Smart Object copy 16" x="302" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-7" data-name="Vector Smart Object copy 16" x="353" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-8" data-name="Vector Smart Object copy 16" x="404" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-9" data-name="Vector Smart Object copy 16" x="455" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-10" data-name="Vector Smart Object copy 16" x="506" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-11" data-name="Vector Smart Object copy 16" x="557" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_16-12" data-name="Vector Smart Object copy 16" x="608" y="220" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17" data-name="Vector Smart Object copy 17" x="47" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-2" data-name="Vector Smart Object copy 17" x="98" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-3" data-name="Vector Smart Object copy 17" x="149" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-4" data-name="Vector Smart Object copy 17" x="200" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-5" data-name="Vector Smart Object copy 17" x="251" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-6" data-name="Vector Smart Object copy 17" x="302" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-7" data-name="Vector Smart Object copy 17" x="353" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-8" data-name="Vector Smart Object copy 17" x="404" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-9" data-name="Vector Smart Object copy 17" x="455" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-10" data-name="Vector Smart Object copy 17" x="506" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-11" data-name="Vector Smart Object copy 17" x="557" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_17-12" data-name="Vector Smart Object copy 17" x="608" y="168" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18" data-name="Vector Smart Object copy 18" x="47" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-2" data-name="Vector Smart Object copy 18" x="98" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-3" data-name="Vector Smart Object copy 18" x="149" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-4" data-name="Vector Smart Object copy 18" x="200" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-5" data-name="Vector Smart Object copy 18" x="251" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-6" data-name="Vector Smart Object copy 18" x="302" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-7" data-name="Vector Smart Object copy 18" x="353" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-8" data-name="Vector Smart Object copy 18" x="404" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-9" data-name="Vector Smart Object copy 18" x="455" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-10" data-name="Vector Smart Object copy 18" x="506" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-11" data-name="Vector Smart Object copy 18" x="557" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_18-12" data-name="Vector Smart Object copy 18" x="608" y="116" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19" data-name="Vector Smart Object copy 19" x="47" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-2" data-name="Vector Smart Object copy 19" x="98" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-3" data-name="Vector Smart Object copy 19" x="149" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-4" data-name="Vector Smart Object copy 19" x="200" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-5" data-name="Vector Smart Object copy 19" x="251" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-6" data-name="Vector Smart Object copy 19" x="302" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-7" data-name="Vector Smart Object copy 19" x="353" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-8" data-name="Vector Smart Object copy 19" x="404" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-9" data-name="Vector Smart Object copy 19" x="455" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-10" data-name="Vector Smart Object copy 19" x="506" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-11" data-name="Vector Smart Object copy 19" x="557" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_19-12" data-name="Vector Smart Object copy 19" x="608" y="64" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20" data-name="Vector Smart Object copy 20" x="47" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-2" data-name="Vector Smart Object copy 20" x="98" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-3" data-name="Vector Smart Object copy 20" x="149" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-4" data-name="Vector Smart Object copy 20" x="200" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-5" data-name="Vector Smart Object copy 20" x="251" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-6" data-name="Vector Smart Object copy 20" x="302" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-7" data-name="Vector Smart Object copy 20" x="353" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-8" data-name="Vector Smart Object copy 20" x="404" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-9" data-name="Vector Smart Object copy 20" x="455" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-10" data-name="Vector Smart Object copy 20" x="506" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-11" data-name="Vector Smart Object copy 20" x="557" y="12" xlink:href="#image"/>
+    <use id="Vector_Smart_Object_copy_20-12" data-name="Vector Smart Object copy 20" x="608" y="12" xlink:href="#image"/>
+  </g>
+  <text id="_3_ay" data-name="3 ay" class="cls-3" transform="translate(90.054 496.349) scale(0.687)">3 ay</text>
+  <text id="_6_ay" data-name="6 ay" class="cls-3" transform="translate(140.924 496.349) scale(0.687)">6 ay</text>
+  <text id="_9_ay_" data-name="9 ay " class="cls-3" transform="translate(192.48 496.349) scale(0.687)">9 ay </text>
+  <text id="_12_ay" data-name="12 ay" class="cls-3" transform="translate(240.348 496.349) scale(0.687)">12 ay</text>
+  <text id="_15_ay" data-name="15 ay" class="cls-3" transform="translate(289.905 496.349) scale(0.687)">15 ay</text>
+  <text id="_18_ay" data-name="18 ay" class="cls-3" transform="translate(341.462 496.349) scale(0.687)">18 ay</text>
+  <text id="_21_ay" data-name="21 ay" class="cls-3" transform="translate(393.017 496.349) scale(0.687)">21 ay</text>
+  <text id="_24_ay" data-name="24 ay" class="cls-3" transform="translate(442.199 496.349) scale(0.687)">24 ay</text>
+  <text id="_27_ay" data-name="27 ay" class="cls-3" transform="translate(493.443 496.349) scale(0.687)">27 ay</text>
+  <text id="_30_ay" data-name="30 ay" class="cls-3" transform="translate(544.311 496.349) scale(0.687)">30 ay</text>
+  <text id="_33_ay" data-name="33 ay" class="cls-3" transform="translate(595.554 496.349) scale(0.687)">33 ay</text>
+  <text id="_36_ay" data-name="36 ay" class="cls-3" transform="translate(645.048 496.349) scale(0.687)">36 ay</text>
+  <text id="_30_cm" data-name="30 cm" class="cls-4" transform="translate(39.688 432.42) scale(0.687)">30 cm</text>
+  <text id="_40_cm" data-name="40 cm" class="cls-4" transform="translate(39.688 380.175) scale(0.687)">40 cm</text>
+  <text id="_50_cm" data-name="50 cm" class="cls-4" transform="translate(39.688 328.62) scale(0.687)">50 cm</text>
+  <text id="_60_cm" data-name="60 cm" class="cls-4" transform="translate(40.063 275.69) scale(0.687)">60 cm</text>
+  <text id="_70_cm" data-name="70 cm" class="cls-4" transform="translate(39.688 223.445) scale(0.687)">70 cm</text>
+  <text id="_80_cm" data-name="80 cm" class="cls-4" transform="translate(39.688 171.202) scale(0.687)">80 cm</text>
+  <text id="_90_cm" data-name="90 cm" class="cls-4" transform="translate(39.563 119.958) scale(0.687)">90 cm</text>
+  <text id="_100_cm" data-name="100 cm" class="cls-4" transform="translate(39.563 68.957) scale(0.687)">100 cm</text>
+  <text id="_110_cm" data-name="110 cm" class="cls-4" transform="translate(39.064 15.958) scale(0.687)">110 cm</text>
+  <g id="lines_---" data-name="lines ---">
+    <path class="cls-5" d="M100,1634s55.749-198.5,614-240" transform="translate(-53 -1219)"/>
+    <path id="Shape_550_copy" data-name="Shape 550 copy" class="cls-6" d="M100,1622s54.749-208.5,613-250" transform="translate(-53 -1219)"/>
+    <path id="Shape_550_copy_2" data-name="Shape 550 copy 2" class="cls-6" d="M100,1607s54.749-210.5,613-252" transform="translate(-53 -1219)"/>
+    <path id="Shape_550_copy_3" data-name="Shape 550 copy 3" class="cls-7" d="M100,1595s55.749-219.5,614-261" transform="translate(-53 -1219)"/>
+    <path id="Shape_550_copy_4" data-name="Shape 550 copy 4" class="cls-6" d="M100,1584s55.749-228.5,614-270" transform="translate(-53 -1219)"/>
+    <path id="Shape_550_copy_5" data-name="Shape 550 copy 5" class="cls-6" d="M100,1575s55.749-249.5,614-291" transform="translate(-53 -1219)"/>
+    <path id="Shape_550_copy_6" data-name="Shape 550 copy 6" class="cls-5" d="M100,1574s55.749-275.5,614-317" transform="translate(-53 -1219)"/>
+  </g>
+  <image id="dot" x="32" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFDElEQVRYhaVXfWhbVRQ/773kNU36kdYsayezW782m21QdVgVUWoZGziYhSpVoRT2j7qNUhGEKQylWxUV0T9EsWzrH6vMdRu2VVq1SCe0ovTDtbNuTe1KhjYr/VibtUle8uQ8zo03LzdNVw9c3te95/e7v3vOufdJm545BWj+H96EZOauapbok0QNuCsznbvq5FMXuXRXNcfuLUlR/wNmTb7ScrjggbzsWqtFeUqR5Z2SBC5dB00H/VY0qk+HtUjfLf/S+cfrv5gEgKi7qtkgk4yIMQuRAtyMZWy9n9dvKy1wNakWpRoAlLVII3BIi7SPTvjf2n/k7F/4TC2mCK+AvMasEcgyev7oc57CzYOqRalZB7jhE/uW78gf/KP92MukMo6TuImJCZjArdcvNTS4cx1tkgQZ6wCOM0kCx33Z9pbrlxoa0VcyEjEC5pkPtb1a68y0nRKpdC88nJm2JvTFK8EHsNk5Plu+fPtQ8RZX1ieCSN8QCfSFPolEHCbLAok+IEP16Ue2v4MSiryFtAic7RiCi73XYHxq1ni3c5sLqivLoO5gOaiWxDBBX5V7C98FgDoKSJ1dFUdhFfDgHzUeKN3ruf8D0ez/nl2C6tfb4Kvuq8Z9WIsYDe97f52Enn4v7HusGDLtaQkkVKtSmu/KbO/un5jnSOgytyaohvpkecHzonXHmb90/AKMemeSao3fXjz+NYTCEdFnmXyrhGXgMiCmQJoz0/aEaHRr5/Ca4MzGvH5o7RoWfiPfaYQlM2C2/pgqqt2mlogGt/84lhI8VV/yrRKWzBRgBIwlUBQpRzT46o3Us4/1nRD3tShyDrcEsmgJrOtGWcOsgkwAI+p0iStKCUtgFKBwOLIoGry7ZPO6CWBaiiwcjixwBSlOgdiut7C8Oi0ajHm+XkvWd2F59SaPxRSIs0nfvDCE654tB0+ROyWFskK30Vdkk775EfNrRoAdIvQzHYM/6Tok7N+qVYFzTTWwqyj5UiDBtpM1Rl+zoU/0zWNhF6yEEheAaeNTs9HqyrLS3Oz0rWYnWOFqD+yB3Cw7zC3ehTuBoBFwnkI3HHmhAj5s3A/ODJuQnNc31//Gx92XAWAJAO4CQBAANDyQKJQauOU6cWPcV1FcdvpE9adWi5xYUzdgYS0arD9x8WjPwMQ1PJdgOADAMhZYmdsYNHwBAKs9AxO+c9+NtHDnvP9jOvpCn+ibMDTzZsTvB0ZB+v4X70xpgUvfUeDySNKGt2W96+c/L7z2XmcnACxSCwDACiPBYgC4mqCwmtDRNz6tWpXbDz24ZY8iy2seYM2Gsp/+ZrD12Ptd3xLwAq1/gFMhTgFeiViBujJ08/bA776RXcXu3E05GXmp1MBoH5ucGX7lZMdnZzqGhjnwRSKAyxBmS8BOxfx+YKOAzKagdNK9o2L31vzDhx5+1FPkLnHnOvIc6apxaAmshAL+ucA/Y17/jdau4d/6Bqd8NNM7BD5PBJaJgGYmAJz8ViKBzrOoZRMpO22ncfWcnEVoZkFKs2UisEjXADf7CAtw87qybFhlitJzmN7ZiVxaEgIhCjBGgLVY3rN/BGY8AZZy7DizakpPdJxOBPg9nScepHErHBE+9SJ8FRQpwJPQBdIGOHALF7xMKUY2SC3ESR41g4sIJCPBHFu57VQxEYhQ00wtysmeUNiS5TbryB+hmRLG/yKXqqw/A+Jb3MYjslTFhQ1GIHR4T7/nKUs5APwL6SL6+Zeav/UAAAAASUVORK5CYII="/>
+  <g id="p_copy" data-name="p copy">
+    <text id="_3p" data-name="3p" class="cls-8" transform="translate(668.564 180.958) scale(0.687)">3p</text>
+    <text id="_10p" data-name="10p" class="cls-8" transform="translate(668.564 158.959) scale(0.687)">10p</text>
+    <text id="_25p" data-name="25p" class="cls-8" transform="translate(668.564 139.957) scale(0.687)">25p</text>
+    <text id="_50p" data-name="50p" class="cls-8" transform="translate(668.564 119.958) scale(0.687)">50p</text>
+    <text id="_75p" data-name="75p" class="cls-8" transform="translate(668.564 98.957) scale(0.687)">75p</text>
+    <text id="_90p" data-name="90p" class="cls-8" transform="translate(668.564 69.958) scale(0.687)">90p</text>
+    <text id="_97p" data-name="97p" class="cls-8" transform="translate(668.564 43.958) scale(0.687)">97p</text>
+  </g>
+</svg>
