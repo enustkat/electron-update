@@ -10,10 +10,10 @@ var settings = {
     outputDirectory: './Enustkat-installers',
 
     // The name of the executable of your built
-    exe: 'evolvia-win32-ia32.exe',
+    exe: 'evolvia.exe',
 
     // The application icon
-    iconUrl: 'http://example.com/Icon.ico',
+    iconUrl: 'http://www.evolvia.com.tr/rp/favicon.ico',
 
     // The setup icon
     // setupIcon: path.join(__dirname, 'Icon.ico'),
