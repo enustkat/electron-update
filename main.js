@@ -122,6 +122,8 @@ app.on("ready", () => {
   mainWindow = new BrowserWindow({
     width: 1366,
     height: 768,
+    minWidth:1200,
+    minHeight:700,
     icon: path.join(__dirname, "assets/icons/png/64x64.png"),
     //titleBarStyle: 'hidden',
     //frame: false,
