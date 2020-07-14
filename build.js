@@ -7,7 +7,7 @@ var settings = {
     appDirectory: './release-builds/evolvia-win32-ia32',
 
     // Specify the existing folder where
-    outputDirectory: './Enustkat-installers',
+    outputDirectory: './Evolvia-installers',
 
     // The name of the executable of your built
     exe: 'evolvia.exe',

@@ -1,7 +1,7 @@
 {
   "name": "evolvia",
   "productName": "evolvia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "evolvia",
   "main": "main.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "  https://github.com/enustkat/electron.git"
+    "url": "  https://github.com/enustkat/electron-update.git"
   },
   "keywords": [
     "Electron",
