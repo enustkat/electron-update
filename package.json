@@ -16,8 +16,9 @@
   "repository": {
     "type": "git",
     "url": "  https://github.com/enustkat/electron-update.git"
+    
   },
-  "keywords": [
+  "keywords": [ 
     "Electron",
     "webview"
   ],
