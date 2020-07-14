@@ -4,6 +4,7 @@ const electron = require("electron");
 const app = electron.app;
 const BrowserWindow = electron.BrowserWindow;
 const autoUpdater = electron.autoUpdater;
+const { dialog } = require('electron')
 
 const path = require("path");
 const fs = require("fs");
@@ -149,22 +150,23 @@ app.on("ready", () => {
 
 require('update-electron-app')({
   repo: 'enustkat/electron',
-  updateInterval: '5 minutes',
+  updateInterval: '55 minutes',
   logger: require('electron-log')
 })
 
 autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
-const dialogOpts = {
-  type: 'info',
-  buttons: ['Restart', 'Later'],
-  title: 'Uygulama Güncellemesi',
-  message: process.platform === 'win32' ? releaseNotes : releaseName,
-  detail: 'Program güncellendi lütfen yeniden başlatın.'
-}
+  const dialogOpts = {
+    type: 'info',
+    buttons: ['Restart', 'Later'],
+    title: 'Uygulama Güncellemesi',
+    message: process.platform === 'win32' ? releaseNotes : releaseName,
+    detail: 'Program güncellendi lütfen yeniden başlatın.'
+  }
 
-dialog.showMessageBox(dialogOpts).then((returnValue) => {
-  if (returnValue.response === 0) autoUpdater.quitAndInstall()
-})
+  dialog.showMessageBox(dialogOpts).then((returnValue) => {
+    if (returnValue.response === 0) autoUpdater.quitAndInstall()
+  })
+
 })
 
 // Quit when all windows are closed.
