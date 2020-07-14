@@ -11,6 +11,7 @@ var settings = {
 
     // The name of the executable of your built
     exe: 'evolvia.exe',
+    setupExe: 'evolvia-win32-ia32.exe',
 
     // The application icon
     iconUrl: 'http://www.evolvia.com.tr/rp/favicon.ico',
