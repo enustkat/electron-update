@@ -156,7 +156,7 @@ require('update-electron-app')({
 autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
   const dialogOpts = {
     type: 'info',
-    buttons: ['Restart', 'Later'],
+    buttons: ['Yeniden Başlat', 'Daha sonra başlat'],
     title: 'Uygulama Güncellemesi',
     message: process.platform === 'win32' ? releaseNotes : releaseName,
     detail: 'Program güncellendi lütfen yeniden başlatın.'
