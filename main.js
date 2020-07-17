@@ -135,6 +135,7 @@ app.on("ready", () => {
   });
 
   mainWindow.loadURL("file://" + __dirname + "/index.html");
+ 
 
   // Display Dev Tools
   //mainWindow.openDevTools();
