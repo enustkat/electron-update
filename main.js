@@ -32,10 +32,6 @@ app.on('second-instance', (event, commandLine, workingDirectory) => {
 })
 
 
- 
-
-
-
 
 const template = [
   {
