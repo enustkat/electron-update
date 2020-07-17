@@ -151,7 +151,9 @@ app.on("ready", () => {
 require('update-electron-app')({
   repo: 'enustkat/electron',
   updateInterval: '55 minutes',
-  logger: require('electron-log')
+  logger: require('electron-log'),
+  // releaseNotes: true
+  notifyUser: false
 })
 
 autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
